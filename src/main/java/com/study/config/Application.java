@@ -6,7 +6,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 
 /**
  * Hello world!
- *
+ *哈布
  */
 @EnableConfigServer
 @SpringBootApplication
